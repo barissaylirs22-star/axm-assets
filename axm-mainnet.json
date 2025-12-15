@@ -1,0 +1,21 @@
+{
+  "name": "Axiom",
+  "symbol": "AXM",
+  "description": "Axiom (AXM) is a routing & utility token for new Solana swaps. Fixed supply: 1,000,000,000 AXM.",
+  "image": "https://raw.githubusercontent.com/barissaylirs22-star/axm-assets/main/axm-logo.png",
+  "external_url": "https://xence-swap.dev",
+  "attributes": [
+    { "trait_type": "Token type", "value": "Utility & routing" },
+    { "trait_type": "Network", "value": "Solana mainnet-beta" },
+    { "trait_type": "Total supply", "value": "1,000,000,000 AXM (fixed)" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/barissaylirs22-star/axm-assets/main/axm-logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
